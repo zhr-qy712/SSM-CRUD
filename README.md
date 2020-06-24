@@ -1,7 +1,8 @@
 # Java
 ##### 此项目是基于SSM框架做的一个简单的CRUD界面
 ##### 开发工具：idea 2019.2版本，MySQL数据库
-:ghost:项目所涉及：<br>
+<br>
+:ghost: 项目所涉及：<br>
 1. SSM框架技术(SpringMVC+Spring+Mybatis)<br>
 2. Bootstrap<br>
 3. jquery<br>
