@@ -15,4 +15,4 @@
 <br>
 :triangular_flag_on_post: 项目遇到的相关问题总结在我的博客里：<br>https://blog.csdn.net/yj71248<br>
 <br>
-:triangular_flag_on_post: 总结：此项目可着重对数据校验，ajax请求，Mybais逆向工程mapper文件中方法的使用做练习
+:triangular_flag_on_post: 总结：此项目可着重对数据校验，ajax请求，Mybais逆向工程mapper文件中方法的使用做练习(项目order by规则还有些小问题)
